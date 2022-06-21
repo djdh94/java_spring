@@ -1,0 +1,8 @@
+package com.ict.Mapper;
+
+import com.ict.domain.MemberVO;
+
+public interface MemberMapper {
+
+	public MemberVO read(String userId);
+}

@@ -1,0 +1,5 @@
+package com.ict.security;
+
+public class CustomAccessDeniedHandler {
+
+}
