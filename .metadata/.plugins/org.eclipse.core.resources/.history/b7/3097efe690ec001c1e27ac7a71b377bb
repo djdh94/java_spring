@@ -1,5 +1,0 @@
-package com.ict.persistence;
-
-public class OracleConnectionPoolTest {
-
-}
